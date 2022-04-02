@@ -64,11 +64,11 @@ data = [
 ]
 
 ## To create table uncomment the below line
-createTable()
+#createTable()
 
 # To insert data into database table uncomment the below line
 #insertData(data)
 
 # makes connection and fetch data
-makeConn()
-getData()
+#makeConn()
+#getData()
